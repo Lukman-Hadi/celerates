@@ -1,6 +1,6 @@
 # celerates
 run
-npm install
+'npm install'
 
 run
-npm DEBUG=celerates_test:* nodemon start
+'npm DEBUG=celerates_test:* nodemon start'
